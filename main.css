@@ -58,6 +58,7 @@ body {
 	cursor: pointer;
 	color: #878787;
 	letter-spacing: 1px;
+	transition: 2s all ease-in-out;
 }
 
 .map {
@@ -69,4 +70,5 @@ body {
 .map img {
 	max-width: 100%;
 	height: auto;
+	transition: 0.5s all ease-in-out;
 }
